@@ -1,0 +1,7 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/testi.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/testi/build/CMakeFiles/install/strip.dir
