@@ -1,0 +1,8 @@
+# ninja log v6
+1	206	7596031169870677	CMakeFiles/thtv3.dir/main.cpp.obj	f073b6bf8ba4e699
+5	241	7596031169870677	CMakeFiles/thtv3.dir/chef.cpp.obj	38bf2ec4e764fa7b
+7	253	7596031169870677	CMakeFiles/thtv3.dir/italianchef.cpp.obj	b45b724363801bf5
+253	369	7596031172437427	thtv3.exe	6e0d756efb8764a3
+27	246	7596038455835786	CMakeFiles/thtv3.dir/chef.cpp.obj	38bf2ec4e764fa7b
+31	266	7596038455835786	CMakeFiles/thtv3.dir/italianchef.cpp.obj	b45b724363801bf5
+266	337	7596038458301846	thtv3.exe	6e0d756efb8764a3
