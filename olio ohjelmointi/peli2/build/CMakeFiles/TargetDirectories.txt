@@ -1,0 +1,7 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/peli2.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/peli2/build/CMakeFiles/install/strip.dir
