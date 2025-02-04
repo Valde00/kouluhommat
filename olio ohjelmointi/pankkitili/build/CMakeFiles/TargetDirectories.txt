@@ -1,0 +1,7 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/pankkitili.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/pankkitili/build/CMakeFiles/install/strip.dir
