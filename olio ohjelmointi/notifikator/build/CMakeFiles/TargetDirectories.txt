@@ -1,0 +1,7 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/notifikator.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/notifikator/build/CMakeFiles/install/strip.dir
