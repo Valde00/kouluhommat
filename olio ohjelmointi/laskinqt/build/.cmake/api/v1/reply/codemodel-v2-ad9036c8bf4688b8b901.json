@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-78100c228397932cf516.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "laskinqt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "laskinqt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laskinqt-Debug-67b257ce8a5ec852775d.json",
+					"name" : "laskinqt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laskinqt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laskinqt_autogen-Debug-59e61c37efbd469d1875.json",
+					"name" : "laskinqt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laskinqt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laskinqt_autogen_timestamp_deps-Debug-793319f5cfa21807946a.json",
+					"name" : "laskinqt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build",
+		"source" : "C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

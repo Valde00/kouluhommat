@@ -1,0 +1,9 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/laskinqt.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/install/strip.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/laskinqt_autogen_timestamp_deps.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/CMakeFiles/laskinqt_autogen.dir

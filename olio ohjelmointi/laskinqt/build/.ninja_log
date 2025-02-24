@@ -1,0 +1,29 @@
+# ninja log v6
+33	942	7621344752264820	laskinqt_autogen/timestamp	98c6013953270b8f
+33	942	7621344752264820	laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+33	942	7621344752264820	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/timestamp	98c6013953270b8f
+33	942	7621344752264820	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+947	3553	7621344752944248	CMakeFiles/laskinqt.dir/laskinqt_autogen/mocs_compilation.cpp.obj	55c3ab179127f001
+951	3561	7621344752979995	CMakeFiles/laskinqt.dir/main.cpp.obj	141becf029c00f08
+953	3580	7621344753010608	CMakeFiles/laskinqt.dir/mainwindow.cpp.obj	637ce4f1ac04a298
+3581	4108	7621344779283352	laskinqt.exe	1c9028aa5fb6db6d
+64	594	7621347855377277	laskinqt_autogen/timestamp	98c6013953270b8f
+64	594	7621347855377277	laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+64	594	7621347855377277	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/timestamp	98c6013953270b8f
+64	594	7621347855377277	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+595	2063	7621347856147910	CMakeFiles/laskinqt.dir/laskinqt_autogen/mocs_compilation.cpp.obj	55c3ab179127f001
+598	2083	7621347856180297	CMakeFiles/laskinqt.dir/main.cpp.obj	141becf029c00f08
+601	2308	7621347856205398	CMakeFiles/laskinqt.dir/mainwindow.cpp.obj	637ce4f1ac04a298
+2308	2466	7621347873278696	laskinqt.exe	1c9028aa5fb6db6d
+63	886	7621348283951486	laskinqt_autogen/timestamp	98c6013953270b8f
+63	886	7621348283951486	laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+63	886	7621348283951486	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/timestamp	98c6013953270b8f
+63	886	7621348283951486	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+887	2939	7621348284972531	CMakeFiles/laskinqt.dir/laskinqt_autogen/mocs_compilation.cpp.obj	55c3ab179127f001
+891	2999	7621348284996575	CMakeFiles/laskinqt.dir/main.cpp.obj	141becf029c00f08
+41	191	7621348713547825	laskinqt_autogen/timestamp	98c6013953270b8f
+41	191	7621348713547825	laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+41	191	7621348713547825	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/timestamp	98c6013953270b8f
+41	191	7621348713547825	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/laskinqt/build/laskinqt_autogen/mocs_compilation.cpp	98c6013953270b8f
+192	1818	7621348715050635	CMakeFiles/laskinqt.dir/mainwindow.cpp.obj	637ce4f1ac04a298
+1818	1976	7621348731315138	laskinqt.exe	1c9028aa5fb6db6d
