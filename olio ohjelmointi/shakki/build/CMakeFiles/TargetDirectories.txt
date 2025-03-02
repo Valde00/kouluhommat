@@ -1,0 +1,9 @@
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/shakki.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/edit_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/list_install_components.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/install.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/install/local.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/install/strip.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/shakki_autogen_timestamp_deps.dir
+C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/CMakeFiles/shakki_autogen.dir

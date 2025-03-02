@@ -1,0 +1,23 @@
+# ninja log v6
+30	660	7626383093840813	shakki_autogen/timestamp	3bbf5cb62e9d0962
+30	660	7626383093840813	shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+30	660	7626383093840813	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/timestamp	3bbf5cb62e9d0962
+30	660	7626383093840813	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+669	2560	7626383094648155	CMakeFiles/shakki.dir/mainwindow.cpp.obj	b3a3ac08e873a7f4
+667	2561	7626383094625356	CMakeFiles/shakki.dir/main.cpp.obj	e2ab5c75035406e9
+664	2566	7626383094594038	CMakeFiles/shakki.dir/shakki_autogen/mocs_compilation.cpp.obj	26ab200e4bc5be9
+2566	2920	7626383113613165	shakki.exe	644821b561761357
+39	472	7626384881950054	shakki_autogen/timestamp	3bbf5cb62e9d0962
+39	472	7626384881950054	shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+39	472	7626384881950054	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/timestamp	3bbf5cb62e9d0962
+39	472	7626384881950054	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+473	2437	7626384882697919	CMakeFiles/shakki.dir/shakki_autogen/mocs_compilation.cpp.obj	26ab200e4bc5be9
+476	2484	7626384882728001	CMakeFiles/shakki.dir/main.cpp.obj	e2ab5c75035406e9
+479	2689	7626384882759693	CMakeFiles/shakki.dir/mainwindow.cpp.obj	b3a3ac08e873a7f4
+2689	2941	7626384904801639	shakki.exe	644821b561761357
+38	187	7626385922392459	shakki_autogen/timestamp	3bbf5cb62e9d0962
+38	187	7626385922392459	shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+38	187	7626385922392459	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/timestamp	3bbf5cb62e9d0962
+38	187	7626385922392459	C:/Users/valtt/Documents/GitHub/muupaska/olio ohjelmointi/shakki/build/shakki_autogen/mocs_compilation.cpp	3bbf5cb62e9d0962
+187	1479	7626385923925620	CMakeFiles/shakki.dir/mainwindow.cpp.obj	b3a3ac08e873a7f4
+1479	1621	7626385936779272	shakki.exe	644821b561761357
